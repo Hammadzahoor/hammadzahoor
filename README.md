@@ -4,7 +4,7 @@ Certified Frontend Engineer
 
 ## 🚀 About Me
 
-I'm a Front End Engineer with over 2+ year of experience. I have completed Front End Engineer Certification from Codecademy recently. You can check by clicking
+I'm a Front End Engineer with over 2+ years of experience. I recently completed the Front End Engineer Certification from Codecademy. You can check by clicking
 [Here](https://www.codecademy.com/profiles/hammadzahoor/certificates/2682884a0719474f96407efe432fdd87).
 
 
@@ -15,7 +15,7 @@ I'm a Front End Engineer with over 2+ year of experience. I have completed Front
 
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,redux,nodejs,nextjs,c,cpp,wordpress,git,github&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,redux,nodejs,nextjs,c,cpp,wordpress,git,github&perline=5)]
 
 
 
