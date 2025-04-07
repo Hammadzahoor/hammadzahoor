@@ -9,8 +9,9 @@ I'm a Front End Engineer with over 2+ year of experience. I have completed Front
 
 
 ## 🔗 Links
-[![linkedin](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg)](www.linkedin.com/in/m-hammad-zahoor) LinkedIn: Ibraheem Zafar
+[![linkedin](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg)](www.linkedin.com/in/m-hammad-zahoor)
 [![twitter](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/twitter-x.svg)](https://x.com/M_HAMMAD_ZAHOOR)
+[![instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/instagram.svg)](https://instagram.com/__m.hammad)
 
 
 ## 🛠 Skills
