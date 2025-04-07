@@ -15,7 +15,7 @@ I'm a Front End Engineer with over 2+ years of experience. I recently completed 
 
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,redux,nodejs,nextjs,c,cpp,wordpress,git,github&perline=5)]
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,redux,nodejs,nextjs,c,cpp,wordpress,git,github&perline=5)
 
 
 
